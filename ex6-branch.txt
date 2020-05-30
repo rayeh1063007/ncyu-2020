@@ -1,3 +1,14 @@
+  Test1063007/ex0
+  Test1063007/ex1
+  Test1063007/ex2
+  Test1063007/ex3
+  Test1063007/ex3-2
+  Test1063007/ex4
+  Test1063007/ex4-2
+  Test1063007/ex4-3
+  Test1063007/ex5
+  Test1063007/ex5-2
+  Test1063007/ex6
   official/ex0
   official/ex1
   official/ex2
@@ -22,3 +33,4 @@
   origin/ex5-2
   origin/ex6
   origin/ex6-2
+  origin/test1063007
