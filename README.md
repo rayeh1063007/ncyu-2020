@@ -8,7 +8,6 @@ bash <(curl -s https://raw.githubusercontent.com/jrjang/ncyu-2020/ex5/scripts/ex
 ```
 
 2. 切到GITHUB_PROJECT資料夾下. 依照投影片描述做修改
-(Hint : 若在rebase或merge途中遇到error或wrong，可以先檢查ex5.txt裡是否有多餘的文字，再continue)
 3. 完成後(不用commit), 在GITHUB_PROJECT資料夾下, 執行以下指令
 
 ```
